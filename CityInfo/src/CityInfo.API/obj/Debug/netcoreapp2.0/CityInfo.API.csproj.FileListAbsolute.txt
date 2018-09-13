@@ -1,0 +1,10 @@
+C:\Users\yu.laureano\source\repos\Api Practice\CityInfo\src\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.deps.json
+C:\Users\yu.laureano\source\repos\Api Practice\CityInfo\src\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.runtimeconfig.json
+C:\Users\yu.laureano\source\repos\Api Practice\CityInfo\src\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.runtimeconfig.dev.json
+C:\Users\yu.laureano\source\repos\Api Practice\CityInfo\src\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.dll
+C:\Users\yu.laureano\source\repos\Api Practice\CityInfo\src\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.pdb
+C:\Users\yu.laureano\source\repos\Api Practice\CityInfo\src\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.csproj.CoreCompileInputs.cache
+C:\Users\yu.laureano\source\repos\Api Practice\CityInfo\src\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.AssemblyInfoInputs.cache
+C:\Users\yu.laureano\source\repos\Api Practice\CityInfo\src\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.AssemblyInfo.cs
+C:\Users\yu.laureano\source\repos\Api Practice\CityInfo\src\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.dll
+C:\Users\yu.laureano\source\repos\Api Practice\CityInfo\src\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.pdb
