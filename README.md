@@ -2,5 +2,7 @@
 
 Library Project: Building a RESTful API with ASP.NET Core
 -------------------------------------------
->El projecto cityinfo, contiene informacion sobre partial update con path, status code, automapper, entityframework, 
+>El proyecto cityinfo, contiene informacion sobre partial update con path, status code, automapper, entityframework, 
 CityInfo Project: Building Your First API with ASP.NET Core
+--------------------------------------------
+>El Proyecto Books, contiene informacion sobre web api asychornous.
